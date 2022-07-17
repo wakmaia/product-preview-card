@@ -1,2 +1,2 @@
 # product-preview-card
-2.product preview card challenge
+2nd challenge: product preview card challenge
